@@ -1,5 +1,15 @@
+h1 {
+    text-align: center;
+}
+
 p {
     font-size: 40pt;
     color: red;
     font-style: oblique;
+    text-align: center;
+}
+
+img {
+    margin: 0 25%;
+    width: 50%;
 }
